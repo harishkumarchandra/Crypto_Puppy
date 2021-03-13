@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/CryptoPuppy/precache-manifest.12daeb5833acc8f0d5367a6c1bb0f1b5.js"
+  "/Crypto_Puppy/precache-manifest.640e256e617c60860e7e620e7e32abb9.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/CryptoPuppy/index.html", {
+workbox.routing.registerNavigationRoute("/Crypto_Puppy/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
