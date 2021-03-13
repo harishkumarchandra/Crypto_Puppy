@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "fb369415eae74584792a",
+    "revision": "1e62c9e767577e8b017a",
     "url": "/Crypto_Puppy/static/css/main.83965ac3.chunk.css"
   },
   {
-    "revision": "fb369415eae74584792a",
-    "url": "/Crypto_Puppy/static/js/main.fb369415.chunk.js"
+    "revision": "1e62c9e767577e8b017a",
+    "url": "/Crypto_Puppy/static/js/main.1e62c9e7.chunk.js"
   },
   {
     "revision": "2af80d49d58b381ec686",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Crypto_Puppy/static/js/runtime~main.4593c2c6.js"
   },
   {
-    "revision": "93176594ad61361a251a4bcbf42cefe3",
+    "revision": "645ece4853e28787ed9b0699edd7cbe2",
     "url": "/Crypto_Puppy/index.html"
   }
 ];
